@@ -15,5 +15,5 @@ body, html {
 
 .philosopher {
 	font-family: var(--philosopher);
-	color: var(--blue);
+	color: var(--bronze);
 }
