@@ -1,0 +1,19 @@
+/* Add application styles & imports to this file! */
+:root{
+	--bronze: #946b2d;
+	--blue: #0e1a40;
+	--silver: #838383;
+	--philosopher: 'philosopher', sans-serif;
+	--cinzel: 'Cinzel Decorative', cursive;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; 
+}
+
+.philosopher {
+	font-family: var(--philosopher);
+	color: var(--blue);
+}
